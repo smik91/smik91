@@ -1,6 +1,6 @@
 # Viewed
 
-![https://count.getloli.com/@smik91?name=smik91&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=14](https://count.getloli.com/@smik91?name=smik91&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=14)
+![https://count.getloli.com/@smik91?name=smik91&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@smik91?name=smik91&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 </br>
 
 ###
